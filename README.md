@@ -6,9 +6,9 @@ The script creates a swf payload which is based off of the PoC payload from http
 
 The vulnerability is a use-after-free flaw enabling arbitrary code-execution in Flash.  More information can be found in the links below.
 
-https://threatpost.com/adobe-patches-zero-day-vulnerability-in-flash-player/139629/
+*https://threatpost.com/adobe-patches-zero-day-vulnerability-in-flash-player/139629/
 
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-15982
+*https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-15982
 
 
 Usage:

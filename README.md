@@ -1,11 +1,12 @@
 # Adobe Flash CVE-2018-15982
 
-Script to dynamically create swf payload.  
+Script to dynamically create a swf payload for CVE-2018-15982.
 
 The script creates a swf payload which is based off of the PoC payload from https://github.com/smgorelik/Windows-RCE-exploits.
 
-The vulnerability  is a use-after-free flaw enabling arbitrary code-execution in Flash.  More information can be found here.
+The vulnerability is a use-after-free flaw enabling arbitrary code-execution in Flash.  More information can be found in the links below.
 https://threatpost.com/adobe-patches-zero-day-vulnerability-in-flash-player/139629/
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-15982
 
 
 Usage:

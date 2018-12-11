@@ -27,7 +27,7 @@ Tested on:
 ## Example
 
 
-Download a file and confirm execution:
+Create payload and confirm execution:
 
 ![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/create-and-confirm.png)
 

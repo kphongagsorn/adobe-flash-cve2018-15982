@@ -21,15 +21,12 @@ Example Usage:
 ## Example
 
 
-Command to download a file:
+Command to download a file and confirm execution:
 
-![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/cmd.png)
+![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/create-and-confirm.png)
 
 
 Executing malicious swf:
 
 ![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/exec.png)
 
-Confirming successful execution:
-
-![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/exec-confirm.png)

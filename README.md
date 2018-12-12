@@ -27,12 +27,16 @@ Tested on:
 ## Example
 
 
-Create payload and confirm execution:
+Create payload:
 
-![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/create-and-confirm.png)
+![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/create.png)
 
 
-Executing malicious swf:
+Executing payload:
 
-![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/exec.png)
+![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/exec31.png)
+
+Confirm execution:
+
+![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/confirm31.png)
 

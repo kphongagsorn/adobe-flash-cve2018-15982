@@ -5,7 +5,7 @@
 class MetasploitModule < Msf::Exploit::Remote
   Rank = NormalRanking
 
-  include Msf::Exploit::FILEFORMAT
+  #include Msf::Exploit::FILEFORMAT
 
   def initialize(info = {})
     super(

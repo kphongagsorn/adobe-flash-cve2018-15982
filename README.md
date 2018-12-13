@@ -40,3 +40,7 @@ Confirm execution:
 
 ![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/confirm31.png)
 
+## Metasploit Module
+
+![alt text](https://github.com/kphongagsorn/adobe-flash/blob/master/images/metasploit-module.png)
+

@@ -28,7 +28,7 @@ class MetasploitModule < Msf::Exploit::Remote
         'Targets'        =>
           [
             [
-              'Adobe Flash 31.0.0.135 and below',
+              'Adobe Flash 31.0.0.153 and below',
               {
                 'Platform' => 'win',
                 'Ret'      => ''

@@ -21,7 +21,7 @@ Example Usage:
 
 Tested on: 
 * Windows 10 Enterprise 10.0.17134, Internet Explorer 11.285.17134.0
-* Adobe Flash Player 31.0.0.153, 29.0.0.140
+* Adobe Flash 31.0.0.153, 29.0.0.140
 
 
 ## Example

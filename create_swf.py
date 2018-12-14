@@ -2,7 +2,7 @@ import sys
 import argparse
 
 def check_arg(args=None):
-	parser = argparse.ArgumentParser(description='This script creates a swf file to take of advantage of a use-after-free vulnerability in Adobe Flash (CVE-2018-15982), allowing for remote code execution.  Tested on Adobe Flash 31.0.0.153, 29.0.0.140')
+	parser = argparse.ArgumentParser(description='This script creates a swf file to take of advantage of a use-after-free vulnerability in Adobe Flash (CVE-2018-15982), allowing for arbitrary code execution.  Tested on Adobe Flash 31.0.0.153, 29.0.0.140')
 	parser.add_argument("command", help="command to run")
 	parser.add_argument("outputfilename", help="name of output file")
 	parser.parse_args()

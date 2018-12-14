@@ -25,6 +25,10 @@ class MetasploitModule < Msf::Exploit::Remote
             [ 'URL', 'https://threatpost.com/adobe-patches-zero-day-vulnerability-in-flash-player/139629/'],
             [ 'URL', 'https://github.com/kphongagsorn/adobe-flash']
           ],
+        'DefaultOptions' =>
+          {
+            'DisablePayloadHandler' => 'true'
+          },
         'Targets'        =>
           [
             [
@@ -61,6 +65,6 @@ class MetasploitModule < Msf::Exploit::Remote
     }
     print_good("'#{file_name}' successfully created!")
     pwd = File.expand_path(File.dirname(__FILE__))
-    print_good("Payload in: #{pwd}")
+    print_good("'#{file_name}' stored in #{pwd}")
   end
 end

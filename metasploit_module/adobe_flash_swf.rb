@@ -13,7 +13,7 @@ class MetasploitModule < Msf::Exploit::Remote
         info,
         'Name'           => 'Adobe Flash Use-After-Free Vulnerability',
         'Description'    => %q(
-            This exploit module creates a swf file to take of advantage of a use-after-free Vulnerability in Adobe Flash, allowing for remote code execution.
+            This exploit module creates a swf file to take of advantage of a use-after-free vulnerability in Adobe Flash, allowing for remote code execution.
         ),
         'License'        => MSF_LICENSE,
         'Author'         => ['Kevin Phongagsorn'],

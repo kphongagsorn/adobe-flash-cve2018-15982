@@ -7,7 +7,7 @@ The vulnerability is a use-after-free flaw enabling arbitrary code-execution in 
 * https://threatpost.com/adobe-patches-zero-day-vulnerability-in-flash-player/139629/
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-15982
 
-
+Note: Currently only spraying one block, I noticed this after I created the script and haven't had the time to fix this yet
 
 Usage:
 
